@@ -1,0 +1,34 @@
+{
+    "blog": {
+        "title": "My Awesome Blog",
+        "author": "Tapas Mandal",
+        "posts": [
+            {
+                "id": 1,
+                "title": "Introduction to My Blog",
+                "content": "Welcome to my blog! This is where I share my thoughts and experiences.",
+                "date": "2023-10-01",
+                "comments": [
+                    {
+                        "author": "John Doe",
+                        "content": "Great first post! Looking forward to more.",
+                        "date": "2023-10-02"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "My Second Post",
+                "content": "This is my second post. I'm getting the hang of this blogging thing!",
+                "date": "2023-10-05",
+                "comments": [
+                    {
+                        "author": "Jane Smith",
+                        "content": "Nice post! Keep it up.",
+                        "date": "2023-10-06"
+                    }
+                ]
+            }
+        ]
+    }
+}
